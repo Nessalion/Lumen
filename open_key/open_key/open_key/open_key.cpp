@@ -1,10 +1,11 @@
 #include <iostream>
 #include <cstdlib>
+#include <time.h>
 using namespace std;
 
 
 
-void public_key()
+void public_key(int ic_1, int ic)
 {
 	int i = 0;
 	int j = 0;
@@ -24,12 +25,30 @@ void public_key()
 	int a_q;
 
 	int index_a = 0;
-	a_p = a[1];
-	a_q = a[84];
+	a_p = a[ic];
+	a_q = a[ic_1];
 
 	int n = a_p * a_q;
-	int f = (a_p) * (a_q);
-	int e[25];
+	int f = (a_p - 1) * (a_q - 1);
+
+	int size = 0;
+	for (i = 0; i < 167; i++)
+	{
+
+
+
+
+		if ((a[i] < f) && (a[i] % f != 0))
+		{
+
+			size++;
+
+
+		}
+
+	}
+	int* e = new int[size];
+
 	for (i = 0; i < 167; i++)
 	{
 
@@ -40,12 +59,18 @@ void public_key()
 		{
 
 			e[j] = a[i];
+
 			j++;
+
 		}
 
 	}
-	cout << "Публичный ключ: (" << e[8] << "," << n << ")";
-
+	srand(time(NULL));
+	if (size == 0) { public_key(rand() % 168, rand() % 168); }
+	else {
+		int jk = rand() % size - 1;
+		cout << "Публичный ключ: (" << e[jk] << "," << n << ")";
+	}
 
 }
 
@@ -56,7 +81,20 @@ void public_key()
 
 int main() {
 	setlocale(LC_ALL, "Rus");
+	srand(time(NULL));
 
-	public_key();
+	const int size_1 = 2;
+	int ic;
+	int ic_1;
+
+
+	for (int i = 0; i < size_1; i++) {
+		ic = rand() % 168;
+		ic_1 = rand() % 168;
+
+	}
+
+
+	public_key(ic, ic_1);
 
 }
