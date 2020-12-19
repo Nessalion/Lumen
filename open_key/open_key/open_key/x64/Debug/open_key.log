@@ -1,0 +1,6 @@
+﻿  open_key.cpp
+E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(84): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(113): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(146): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  open_key.vcxproj -> E:\Sup.Prog\GitHub\Lumen\open_key\open_key\x64\Debug\open_key.exe
