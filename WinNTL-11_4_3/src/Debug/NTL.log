@@ -1,0 +1,186 @@
+﻿  BasicThreadPool.cpp
+  ctools.cpp
+  FacVec.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  FFT.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  fileio.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\fileio.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\fileio.cpp(118): warning C4244: инициализация: преобразование "time_t" в "unsigned long", возможна потеря данных
+  GetPID.cpp
+  GetTime.cpp
+  GF2.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2E.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2EX.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2EXFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2X.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\GF2X.cpp(566): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\GF2X.cpp(585): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\GF2X.cpp(615): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\GF2X.cpp(643): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\GF2X.cpp(691): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2X1.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2XFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2XVec.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  G_LLL_FP.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  G_LLL_QP.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  G_LLL_RR.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  G_LLL_XD.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  HNF.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  Создание кода...
+  Компиляция...
+  lip.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(111): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(538): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(1751): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(2227): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(2915): warning C4101: alias: неиспользованная локальная переменная
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(3117): warning C4101: alias: неиспользованная локальная переменная
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(5462): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\lip.cpp(8337): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  LLL.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  LLL_FP.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  LLL_QP.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  LLL_RR.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  LLL_XD.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pE.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pEX.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pEXFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pX.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pX1.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pXCharPoly.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  lzz_pXFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  MatPrime.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\MatPrime.cpp(162): warning C4101: w: неиспользованная локальная переменная
+  mat_GF2.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_GF2E.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_lzz_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_lzz_pE.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_poly_lzz_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  Создание кода...
+  Компиляция...
+  mat_poly_ZZ.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_poly_ZZ_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_RR.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_ZZ.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_ZZ_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_ZZ_pE.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  pd_FFT.cpp
+  quad_float.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  quad_float1.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\quad_float1.cpp(78): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  RR.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  thread.cpp
+  tools.cpp
+  vec_GF2.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  vec_GF2E.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  vec_lzz_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\vec_lzz_p.cpp(10): warning C4101: i: неиспользованная локальная переменная
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\vec_lzz_p.cpp(21): warning C4101: i: неиспользованная локальная переменная
+  vec_lzz_pE.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  vec_RR.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  vec_ZZ.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  vec_ZZ_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  vec_ZZ_pE.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  Создание кода...
+  Компиляция...
+  WordVector.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  xdouble.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(381): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(643): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(647): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(658): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(849): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(2806): warning C4244: =: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(2807): warning C4244: =: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(2968): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(2972): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ.cpp(2984): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZVec.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZX.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZX1.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZX1.cpp(1656): warning C4101: i: неиспользованная локальная переменная
+  ZZXCharPoly.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZXFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZXFactoring.cpp(1279): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZXFactoring.cpp(1281): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_p.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_pE.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_pEX.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_pEXFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_pX.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\ZZ_pX.cpp(2244): warning C4101: l: неиспользованная локальная переменная
+  ZZ_pX1.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_pXCharPoly.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_pXFactoring.cpp
+E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\include\NTL\lip.h(399): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  Создание кода...
+  NTL.vcxproj -> E:\Sup.Prog\GitHub\Lumen\WinNTL-11_4_3\src\Debug\NTL.lib

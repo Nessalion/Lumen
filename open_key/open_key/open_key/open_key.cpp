@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include <NTL/ZZ.h>
 using namespace std;
 
 int e_main, n, f, j, i, ret;
@@ -158,7 +159,7 @@ int main() {
 	ic_1 = rand() % 88;
 
 
-
+	
 
 
 	privat_key(ic, ic_1);
