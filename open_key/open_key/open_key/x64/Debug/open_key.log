@@ -1,7 +1,7 @@
 ﻿  open_key.cpp
-E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(87): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(113): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(149): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-E:\Sup.Prog\GitHub\Lumen\open_key\open_key\open_key\open_key.cpp(109): warning C4715: privat_key: значение возвращается не при всех путях выполнения
-  open_key.vcxproj -> E:\Sup.Prog\GitHub\Lumen\open_key\open_key\x64\Debug\open_key.exe
+C:\Users\eatso\Desktop\Lumen-master\open_key\open_key\open_key\open_key.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eatso\Desktop\Lumen-master\open_key\open_key\open_key\open_key.cpp(87,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eatso\Desktop\Lumen-master\open_key\open_key\open_key\open_key.cpp(113,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eatso\Desktop\Lumen-master\open_key\open_key\open_key\open_key.cpp(149,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eatso\Desktop\Lumen-master\open_key\open_key\open_key\open_key.cpp(109): warning C4715: privat_key: значение возвращается не при всех путях выполнения
+  open_key.vcxproj -> C:\Users\eatso\Desktop\Lumen-master\open_key\open_key\x64\Debug\open_key.exe

@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\eatso\Desktop\project\Lumen-master\UI\UI\Source.cpp(135,73): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\eatso\Desktop\project\Lumen-master\UI\UI\Source.cpp(135,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  UI.vcxproj -> C:\Users\eatso\Desktop\project\Lumen-master\UI\x64\Debug\UI.exe
