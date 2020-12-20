@@ -3,9 +3,9 @@
 #include <ctime>
 using namespace std;
 
-int e_main, n, f, j, i;
+int e_main, n, f, j, i, ret;
 
-void privat_key(int ic, int ic_1)
+int privat_key(int ic, int ic_1)
 {
 	int a[88] = { 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,
 		89,97,101,103,107,109,113,127,131,137,139,149,151,157,163,167,173,179,181,191,193,197,
@@ -25,6 +25,7 @@ void privat_key(int ic, int ic_1)
 		}
 
 	}
+
 	int* e = new int[size];
 
 	for (i = 0; i < 87; i++)
@@ -40,6 +41,7 @@ void privat_key(int ic, int ic_1)
 	if (size == 0)
 	{
 		privat_key(rand() % 88, rand() % 88);
+		return  ret;
 	}
 	else {
 		int jk = rand() % size;
@@ -48,19 +50,11 @@ void privat_key(int ic, int ic_1)
 		}
 		e_main = e[jk];
 
-
-
-
-
-
-		int a_p = a[ic];
-		int a_q = a[ic_1];
-
 		int size_1 = 0;
 		long  d;
 		//cout << LONG_MAX;
 		j = 0;
-		long max_d = 1000000;
+		long max_d = 270000;
 		for (d = 2; d < max_d; d++)
 		{
 			if (((d * e_main) % f) == 1)
@@ -68,6 +62,11 @@ void privat_key(int ic, int ic_1)
 				size_1++;
 			}
 		}
+		if (size_1 > 400)
+		{
+			size_1 = 400;
+		}
+
 		int* d_pr = new int[size_1];
 		for (d = 2; d < max_d; d++)
 		{
@@ -77,6 +76,10 @@ void privat_key(int ic, int ic_1)
 				{
 					d_pr[j] = d;
 					j++;
+					if ((size_1 == 400) && (j == 400))
+					{
+						break;
+					}
 				}
 			}
 		}
@@ -84,6 +87,7 @@ void privat_key(int ic, int ic_1)
 		srand(time(NULL));
 		if (size_1 == 0) {
 			privat_key(rand() % 88, rand() % 88);
+			return  ret;
 
 		}
 		else
@@ -97,11 +101,7 @@ void privat_key(int ic, int ic_1)
 			cout << "Приватный ключ: (" << d_pr[pr] << "," << n << ")" << endl;
 
 		}
-		cout << a_p << endl;
-		cout << a_q << endl;
-		cout << f << endl;
-		cout << e_main << endl;
-		cout << size_1 << endl;
+
 
 
 	}
@@ -136,6 +136,9 @@ void key(int ic_1, int ic)
 
 }
 
+void encrypto() {
+
+}
 
 
 
@@ -145,6 +148,7 @@ int main() {
 	setlocale(LC_ALL, "Rus");
 	srand(time(NULL));
 
+	const int size_1 = 2;
 	int ic;
 	int ic_1;
 
